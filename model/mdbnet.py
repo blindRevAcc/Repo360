@@ -6,7 +6,7 @@ from torchvision import transforms
 import math
 
 '''
-This code for early and late fusion for RGB features
+This code for early and late fusion for RGB features.
 '''
 
 ####################################### For 2D Feature Extractuion and Downsampling Network #######################################
