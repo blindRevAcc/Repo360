@@ -1,1 +1,1 @@
-This folder includes rendered sounds in kitchen scene 
+This folder includes rendered sounds in kitchen scene by different models.
