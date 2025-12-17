@@ -1,5 +1,5 @@
 /*
-    MDBNet data preprocessing adaped to 360 degrees images
+    MDBNet data pre-processing adaped to 360 degrees images
     Author: June,2024
     Based on ideas from : https://gitlab.com/UnBVision/edgenet360/-/tree/master/src?ref_type=heads 
     and https://github.com/shurans/sscnet
@@ -1709,3 +1709,4 @@ extern "C" {
         clear_parameters_GPU();
     }
 }
+
